@@ -1,10 +1,17 @@
-<!-- [![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif | width=300 | height=200)](https://vaibhav12708.io) -->
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  width="700" height="450">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="26%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="26%" style="display:inline;">
 <br>
-<h1 align="center">Hi 👋, I'm Vaibhav Jain</h1>
-<h3 align="center">An ambitious front-end developer from India</h3>
+<p align="center">
+    <h1 align="center">✩&emsp;Hi 👋, I'm Vaibhav Jain&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br><br><br>
+
+##
+<h3 align="center">An ambitious front-end developer from India </h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav12708&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav12708" /> </p>
 
@@ -103,3 +110,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav12708&theme=nord&column=7)](https://github.com/vaibhav12708/github-profile-trophy)
 
+<br>
+
+## 📊 Leetcode Stats 
+
+<p align="center">
+    <a href="https://leetcode.com/vj9635/"><img width="48%" src="https://leetcode.card.workers.dev/vj9635?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+ 
