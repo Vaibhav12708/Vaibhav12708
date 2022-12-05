@@ -106,11 +106,6 @@
  
 -->
  
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav12708&theme=nord&column=7)](https://github.com/vaibhav12708/github-profile-trophy)
-
-<br>
 
 ## 📊 Leetcode Stats 
 
