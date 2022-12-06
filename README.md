@@ -40,7 +40,7 @@
 <a href="https://instagram.com/vaibhav__mandot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav__mandot" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vj9635" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vj9635" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vj9635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vj9635" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vj9635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vj9635" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vj9635" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vj9635" height="30" width="40" /></a>
 <a href="https://discord.gg/vaibhav#8418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vaibhav#8418" height="30" width="40" /></a>
  
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavmandot1233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavmandot1233@gmail..com)](mailto:vaibhavmandot1233@gmail..com)
