@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav30333771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav30333771" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhavjain1233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav jain" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhav__mandot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav__mandot" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vj9635" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vj9635" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vj9635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vj9635" height="30" width="40" /></a>
